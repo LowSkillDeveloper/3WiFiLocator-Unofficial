@@ -1,17 +1,17 @@
 {
-  "id": 3,
+  "id": 5,
   "messages": {
     "en": {
-      "title": "New version of 3WiFi locator released!",
-      "message": "❗ Before installing a new version, you need to remove the old version.\n\n\n ✅ Added switch to enable search by ESSID on the scanning page.\n✅ Added styling on the local database page.\n✅ Primitive validation added for WPS PIN and password on the local database page.\n\n🔴 Fixed crash when searching in the local database.\n🔴 Display of saved Wi-Fi passwords.\n\n🔵 Kotlin updated to version 2.0.20.\n🔵 BIG search optimization in the local database on the scanning and local database pages.\n🔵 Reduced RAM usage on the local database page.\n🔵 Updated libraries to the latest versions.\n🔵 Hidden non-functional buttons.\n🔵 Enabled minify during compilation.",
-      "button_text": "Download",
-      "download_url": "https://github.com/LowSkillDeveloper/3WiFiLocator-Unofficial/releases/download/3WiFiLocator-v2.3-Unofficial/3WiFiLocator-v2.3-Unofficial.apk"
+      "title": "New App Released!",
+      "message": "A brand-new app is now available to replace the old 3WiFi Locator.\n\nIt includes many new features: Wi-Fi maps, WPA key generators, a neighbor-based WPS PIN generator (just like on the 3WiFi website), PixieDust, the ability to locate Wi-Fi networks by MAC address, and much more.",
+      "button_text": "Download on GitHub",
+      "download_url": "https://github.com/LowSkillDeveloper/WIFI-Frankenstein/releases/latest"
     },
     "ru": {
-    "title": "Вышла новая версия 3WiFi локатора!",
-    "message": "❗ Перед установкой новой версии необходимо удалить старую версию.\n\n\n ✅ Добавлен переключатель с возможностью включения поиска по ESSID на странице сканирования.\n✅ Добавлена стилизация на странице локальной базы данных.\n✅ Добавлена примитивная проверка корректности WPS PIN и пароля на странице локальной базы данных.\n\n🔴 Исправлен вылет при поиске в локальной базе данных.\n🔴 Улучшено отображение сохраненных паролей Wi-Fi.\n\n🔵 Kotlin обновлен до версии 2.0.20.\n🔵 Серьезная оптимизация поиска в локальной базе данных на страницах сканирования и локальной базы данных.\n🔵 Снижено использование ОЗУ на странице локальной базы данных.\n🔵 Обновлены библиотеки до последних версий.\n🔵 Скрыты нерабочие кнопки.\n🔵 Включена минификация при компиляции.",
-    "button_text": "Скачать",
-    "download_url": "https://github.com/LowSkillDeveloper/3WiFiLocator-Unofficial/releases/download/3WiFiLocator-v2.3-Unofficial/3WiFiLocator-v2.3-Unofficial.apk"
+      "title": "Новое приложение!",
+      "message": "Новое приложение на замену старого 3WiFi Локатора.\n\nСодержит множество нововведений: Wi-Fi карты, WPA-генераторы, Neighbor-based WPS PIN-генератор (как на сайте 3WiFi), PixieDust, возможность определения местоположения Wi-Fi по MAC-адресу и многое другое.",
+      "button_text": "Скачать на GitHub",
+      "download_url": "https://github.com/LowSkillDeveloper/WIFI-Frankenstein/releases/latest"
     }
   }
 }
