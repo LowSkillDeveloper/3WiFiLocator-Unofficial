@@ -1,17 +1,17 @@
 {
-  "id": 3,
+  "id": 5,
   "messages": {
     "en": {
-   "title": "Important! You are using the BETA version of the locator",
-  "message": "A new stable version is available, we strongly recommend switching to it. \n\n❗ Before installing a new version, you need to remove the old version.",
-  "button_text": "Download new version",
-  "download_url": "https://github.com/LowSkillDeveloper/3WiFiLocator-Unofficial/releases/download/3WiFiLocator-v2.3-Unofficial/3WiFiLocator-v2.3-Unofficial.apk"
+      "title": "New App Released!",
+      "message": "A brand-new app is now available to replace the old 3WiFi Locator.\n\nIt includes many new features: Wi-Fi maps, WPA key generators, a neighbor-based WPS PIN generator (just like on the 3WiFi website), PixieDust, the ability to locate Wi-Fi networks by MAC address, and much more.",
+      "button_text": "Download on GitHub",
+      "download_url": "https://github.com/LowSkillDeveloper/WIFI-Frankenstein/releases/latest"
     },
     "ru": {
-   "title": "Важно! Вы используете БЕТА версию локатора",
-  "message": "Доступна новая стабильная версия, настоятельно рекомендуем перейти на неё.\n\n❗Перед установкой новой версии необходимо удалить старую версию.",
-  "button_text": "Скачать новую версию",
-  "download_url": "https://github.com/LowSkillDeveloper/3WiFiLocator-Unofficial/releases/download/3WiFiLocator-v2.3-Unofficial/3WiFiLocator-v2.3-Unofficial.apk"
+      "title": "Новое приложение!",
+      "message": "Новое приложение на замену старого 3WiFi Локатора.\n\nСодержит множество нововведений: Wi-Fi карты, WPA-генераторы, Neighbor-based WPS PIN-генератор (как на сайте 3WiFi), PixieDust, возможность определения местоположения Wi-Fi по MAC-адресу и многое другое.",
+      "button_text": "Скачать на GitHub",
+      "download_url": "https://github.com/LowSkillDeveloper/WIFI-Frankenstein/releases/latest"
     }
   }
 }
