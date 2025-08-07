@@ -1,14 +1,16 @@
+> [!IMPORTANT]
+> Most likely, the 3WiFi Locator app will no longer be updated. Use the new WiFi Frankenstein app, which can do the same thing but contains improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
+
 # Unofficial 3WiFi Locator v2 for Android 
 
 This is a new version of 3wifi locator, which is based on the version from drygdryg.
 
-
-> [!NOTE]
-> The changelog contains only information about the changes that I made myself in version of locator by drygdryg. The original drygdryg version repository has been removed.
-
 # Changelog
 
 Descriptions and instructions for my added new functions can be found on the Wiki Github page: https://github.com/LowSkillDeveloper/3WiFiLocator-Unofficial/wiki
+
+> [!NOTE]
+> The changelog contains only information about the changes that I made myself in version of locator by drygdryg. The original drygdryg version repository has been removed.
 
 ## Added Features:
 - Added ability to view saved passwords on your phone (root only)
@@ -111,4 +113,33 @@ Original locator source (abandoned): https://github.com/FusixGit/WiFiPasswordSea
 3WIFI source: https://github.com/binarymaster/3WiFi
 
 ROOT version of Locator (abandoned): https://github.com/LowSkillDeveloper/Root-3WiFiLocator-Unofficial
+
+------------------
+
+## 🔄 Comparison with 3WiFi Locator
+
+| Feature | WiFi Frankenstein | 3WiFi Locator |
+|---------|-------------------|---------------|
+| Local in-app Database | ✅ Yes  | ⚠️ Limited |
+| Offline Full 3WiFi Database | ✅ Supported | ❌ Not supported |
+| Advanced 3WiFi API Settings | ✅ Full access | ⚠️ Limited API access |
+| WPS PixieDust (OneShot) | ✅ Supported (Root) | ❌ Not supported |
+| Viewing saved passwords in memory | ✅ Supported (Root) | ✅ Supported (Root) |
+| WPA Generators (Router Keygen) | ✅ Supported | ❌ Not supported |
+| WPS Generators | ✅ Supported | ⚠️ Limited |
+| Neighbor-based WPS PIN suggestions | ✅ Supported | ❌ Not supported |
+| WiFi Channel Analysis | ✅ Supported | ❌ Not supported |
+| Additional WiFi Information | ✅ Yes | ⚠️ Limited |
+| Custom SQLite Databases | ✅ Supported | ❌ Not supported |
+| WiFi Maps | ✅ Yes | ❌ Not supported |
+| WiFi Location by MAC | ✅ Yes | ❌ Not supported |
+| Database Updates | ✅ SmartLinkDB | ❌ Not supported |
+| App/Component Updates | ✅ Supported | ⚠️ Notification only |
+| Customizable Themes | ✅ Multiple options | ⚠️ Dark mode only |
+| Custom App Icon | ✅ Supported | ❌ Not supported |
+| Manufacturer Databases | ✅ 4 databases | ✅ 3 databases |
+| Distance Calculation | ✅ Supported | ❌ Not supported |
+| SDK version | ✅ Latest | ⚠️Old |
+
+https://github.com/LowSkillDeveloper/WIFI-Frankenstein
 
