@@ -19,10 +19,8 @@ Descriptions and instructions for my added new functions can be found on the Wik
 - Added Connection via WPS button
 - Added the ability to connect to the 3wifi server directly by IP address (No longer need a proxy server for redirection)
 - Server list URLs in the start menu.
-  - Functionality to load server list from online sources (working mirrors or proxy servers).
 - Display of 3WiFi API keys with the ability to copy them.
 - Dark theme and option to switch to it.
-- Added double scanning feature to get more networks (It does two scans in a row with an interval of 4 seconds and then merges it into one list.)
 - Offline vendor database from "Wps Wpa Tester" app.
 - Added history of data founded in 3wifi for networks you scanned. (Local database in the application, where the networks saves when you found data in 3wifi)
   - Added import and export of local database in .json file
@@ -30,17 +28,15 @@ Descriptions and instructions for my added new functions can be found on the Wik
   - Manually adding wifi to the database
   - Import txt file from RouterScan to local DB (or myuploads.txt from 3wifi)
   - Added ability to backup SQLite file and restore database from it.
-- Added links to the start menu
 - Added a local database search button next to the search button in the online 3wifi database
 - Added the ability to download wpspin.html to the phone
-- Added caching of wps pin code data from the 3wifi server (reduces the load on the server and makes offline re-viewing available)
+- Added caching of wps pin code data from the 3wifi server
 - Added the ability to login using only the API key
 - Ability to open 3wifi website in WebView
 - Added the ability to manually search by BSSID in the 3WiFi database
 - Added the ability to manually search by ESSID in the 3WiFi database
 - Added WPS connection via Root
 - Added button to display Wi-Fi point location on Google Map if coordinates are returned by server.
--  Added styling on the local database page
     
 ## Updated Features:
 - Offline mode button.
@@ -98,9 +94,6 @@ Descriptions and instructions for my added new functions can be found on the Wik
       <td><img src="https://github.com/LowSkillDeveloper/3WiFiLocator-Unofficial/assets/25121341/b1a12727-7666-4403-9aa0-de5db84f4fd0" alt="Скриншот 12" width="216" height="480"></td>
       <td><img src="https://github.com/LowSkillDeveloper/3WiFiLocator-Unofficial/assets/25121341/20d5bff3-4a71-4604-8624-9f670daec963" alt="Скриншот 13" width="216" height="480"></td>
     </tr>
-<tr>
-      <td><img src="https://github.com/LowSkillDeveloper/3WiFiLocator-Unofficial/assets/25121341/fa29982c-5d15-4cc5-82df-a86cb1db84d2" alt="Скриншот 4" width="216" height="480"></td>
-</tr>
   </table>
 </div>
 ------------------
@@ -116,7 +109,7 @@ ROOT version of Locator (abandoned): https://github.com/LowSkillDeveloper/Root-3
 
 ------------------
 
-## 🔄 Comparison with 3WiFi Locator
+## 🔄 Comparison new app with 3WiFi Locator
 
 | Feature | WiFi Frankenstein | 3WiFi Locator |
 |---------|-------------------|---------------|
