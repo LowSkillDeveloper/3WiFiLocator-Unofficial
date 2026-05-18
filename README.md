@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Most likely, the 3WiFi Locator app will no longer be updated. Use the new WiFi Frankenstein app, which can do the same thing but contains improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
+> 3WiFi Locator app will no longer be updated. Use the new "WiFi Frankenstein" app, which can do the same thing but contains improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
 
 # Unofficial 3WiFi Locator v2 for Android 
 
