@@ -1,18 +1,16 @@
 > [!IMPORTANT]
 > 3WiFi Locator app will no longer be updated. Use the new "WiFi Frankenstein" app, which can do the same thing but contains improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
 
-# Unofficial 3WiFi Locator v2 for Android 
+## Unofficial 3WiFi Locator v2 for Android 
 
-This is a new version of 3wifi locator, which is based on the version from drygdryg.
+Unofficial 3wifi locator, which is based on the version from drygdryg
 
-# Changelog
-
-Descriptions and instructions for my added new functions can be found on the Wiki Github page: https://github.com/LowSkillDeveloper/3WiFiLocator-Unofficial/wiki
+## Changelog
 
 > [!NOTE]
 > The changelog contains only information about the changes that I made myself in version of locator by drygdryg. The original drygdryg version repository has been removed.
 
-## Added Features:
+### Added Features:
 - Added ability to view saved passwords on your phone (root only)
 - Added switch to enable search by ESSID on the scanning page.
 - Added primitive validation for WPS PIN and password on the local database page.
@@ -38,7 +36,7 @@ Descriptions and instructions for my added new functions can be found on the Wik
 - Added WPS connection via Root
 - Added button to display Wi-Fi point location on Google Map if coordinates are returned by server.
     
-## Updated Features:
+### Updated Features:
 - Offline mode button.
 - Kotlin updated to version 2.0.20
 - Upgraded the SDK version
@@ -53,7 +51,7 @@ Descriptions and instructions for my added new functions can be found on the Wik
 - Minor updates to the section with detailed information about the network
 - Enabled minify during compilation
 
-## Fixed Issues:
+### Fixed Issues:
 - Getting online vendor information from wpsfinder.
 - Fixed crash when searching in the local database
 - Remade some hardcoded lines
@@ -70,7 +68,7 @@ Descriptions and instructions for my added new functions can be found on the Wik
 - Fixed adding server URL with '/' at the end.
 
 
-# Screenshots
+## Screenshots
 
 <div>
   <table>
