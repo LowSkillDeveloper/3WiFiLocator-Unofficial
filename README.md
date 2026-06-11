@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> 3WiFi Locator app will no longer be updated. Use the new "WiFi Frankenstein" app, which can do the same thing but contains improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
+> ## 3WiFi Locator app will no longer be updated. Use the new "WiFi Frankenstein" app, which can do the same thing but contains improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
 
 ## Unofficial 3WiFi Locator v2 for Android 
 
@@ -106,6 +106,10 @@ Original locator source (abandoned): https://github.com/FusixGit/WiFiPasswordSea
 ROOT version of Locator (abandoned): https://github.com/LowSkillDeveloper/Root-3WiFiLocator-Unofficial
 
 ------------------
+
+> [!IMPORTANT]
+> ## 3WiFi Locator app will no longer be updated. Use the new "WiFi Frankenstein" app, which can do the same thing but contains improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
+
 
 ## 🔄 Comparison new app with 3WiFi Locator
 
