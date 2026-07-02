@@ -1,7 +1,8 @@
 > [!IMPORTANT]
-> ## 3WiFi Locator app will no longer be updated. Use the new "WiFi Frankenstein" app, which can do the same thing but contains improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
+> ## 3WiFi Locator app will no longer be updated.
+> Use the new "WiFi Frankenstein" app, which can do the same thing but contains improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
 
-## Unofficial 3WiFi Locator v2 for Android 
+## Unofficial 3WiFi Locator for Android 
 
 Unofficial 3wifi locator, which is based on the version from drygdryg
 
@@ -21,18 +22,15 @@ Unofficial 3wifi locator, which is based on the version from drygdryg
 - Dark theme and option to switch to it.
 - Offline vendor database from "Wps Wpa Tester" app.
 - Added history of data founded in 3wifi for networks you scanned. (Local database in the application, where the networks saves when you found data in 3wifi)
-  - Added import and export of local database in .json file
-  - Added import and export in .csv file
-  - Manually adding wifi to the database
-  - Import txt file from RouterScan to local DB (or myuploads.txt from 3wifi)
-  - Added ability to backup SQLite file and restore database from it.
+- Import txt file from RouterScan to local DB (or myuploads.txt from 3wifi)
+- Added ability to backup SQLite file and restore database from it.
 - Added a local database search button next to the search button in the online 3wifi database
 - Added the ability to download wpspin.html to the phone
 - Added caching of wps pin code data from the 3wifi server
 - Added the ability to login using only the API key
 - Ability to open 3wifi website in WebView
-- Added the ability to manually search by BSSID in the 3WiFi database
-- Added the ability to manually search by ESSID in the 3WiFi database
+- Added the ability to manually search by BSSID in the 3WiFi
+- Added the ability to manually search by ESSID in the 3WiFi
 - Added WPS connection via Root
 - Added button to display Wi-Fi point location on Google Map if coordinates are returned by server.
     
@@ -110,7 +108,6 @@ ROOT version of Locator (abandoned): https://github.com/LowSkillDeveloper/Root-3
 > [!IMPORTANT]
 > ## 3WiFi Locator app will no longer be updated. Use the new "WiFi Frankenstein" app, which can do the same thing but contains improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
 
-
 ## 🔄 Comparison new app with 3WiFi Locator
 
 | Feature | WiFi Frankenstein | 3WiFi Locator |
@@ -118,16 +115,21 @@ ROOT version of Locator (abandoned): https://github.com/LowSkillDeveloper/Root-3
 | Local in-app Database | ✅ Yes  | ⚠️ Limited |
 | Offline Full 3WiFi Database | ✅ Supported | ❌ Not supported |
 | Advanced 3WiFi API Settings | ✅ Full access | ⚠️ Limited API access |
-| WPS PixieDust (OneShot) | ✅ Supported (Root) | ❌ Not supported |
-| Viewing saved passwords in memory | ✅ Supported (Root) | ✅ Supported (Root) |
-| WPA Generators (Router Keygen) | ✅ Supported | ❌ Not supported |
-| WPS Generators | ✅ Supported | ⚠️ Limited |
-| Neighbor-based WPS PIN suggestions | ✅ Supported | ❌ Not supported |
+| WPS PixieDust (OneShot) ® | ✅ Supported (Root) | ❌ Not supported |
+| Viewing saved passwords in memory ® | ✅ Supported (Root) | ✅ Supported (Root) |
+| WPA Algorithms (Router Keygen) | ✅ Supported | ❌ Not supported |
+| WPS Algorithms | ✅ Supported | ⚠️ Limited |
+| Handshake capture ® | ✅ Supported (Root, kernel) | ❌ Not supported |
+| Built-in Router Scan | ✅ Supported | ❌ Not supported |
+| Local network scanner | ✅ Supported | ❌ Not supported |
+| Checking for DPI blocking by your provider | ✅ Supported | ❌ Not supported |
+| Neighbor-based WPS PIN Algorithms | ✅ Supported | ❌ Not supported |
+| 3WIFI offline IP ranges | ✅ Supported | ❌ Not supported |
 | WiFi Channel Analysis | ✅ Supported | ❌ Not supported |
-| Additional WiFi Information | ✅ Yes | ⚠️ Limited |
-| Custom SQLite Databases | ✅ Supported | ❌ Not supported |
+| Custom SQLite Database connection | ✅ Supported | ❌ Not supported |
 | WiFi Maps | ✅ Yes | ❌ Not supported |
-| WiFi Location by MAC | ✅ Yes | ❌ Not supported |
+| WiFi API Maps | ⚠️ Limited | ❌ Not supported |
+| WiFi Location (geoMAC) | ✅ Yes | ❌ Not supported |
 | Database Updates | ✅ SmartLinkDB | ❌ Not supported |
 | App/Component Updates | ✅ Supported | ⚠️ Notification only |
 | Customizable Themes | ✅ Multiple options | ⚠️ Dark mode only |
@@ -136,5 +138,10 @@ ROOT version of Locator (abandoned): https://github.com/LowSkillDeveloper/Root-3
 | Distance Calculation | ✅ Supported | ❌ Not supported |
 | SDK version | ✅ Latest | ⚠️Old |
 
-https://github.com/LowSkillDeveloper/WIFI-Frankenstein
+* Some features require root access. ®
+* Some functions work through the chroot/proot environment
+* Some features are only available starting only in new version 2.0 and upper.
+* The Handshake capture feature requires a custom kernel with support for external adapters or monitoring mode for the built-in kernel.
 
+
+https://github.com/LowSkillDeveloper/WIFI-Frankenstein
