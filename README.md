@@ -1,6 +1,37 @@
 > [!IMPORTANT]
 > ## 3WiFi Locator app will no longer be updated.
-> Use the new "WiFi Frankenstein" app, which can do the same thing but contains improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
+> ### Use the new app "WiFi Frankenstein", which can do the same thing but contains a lot of ne features and improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
+
+## 🔄 Comparison new app with 3WiFi Locator
+| Feature | WiFi Frankenstein | 3WiFi Locator |
+|---------|-------------------|---------------|
+| Local in-app Database | ✅ Yes  | ⚠️ Limited |
+| WiFi Maps | ✅ Yes | ❌ Not supported |
+| Offline Full 3WiFi Database | ✅ Supported | ❌ Not supported |
+| WiFi Location (geoMAC) | ✅ Yes | ❌ Not supported |
+| Handshake capture ® | ✅ Supported (Root, kernel) | ❌ Not supported |
+| Handshake cracker | ✅ Supported | ❌ Not supported |
+| wpa-sec.stanev.org integration| ✅ Supported | ❌ Not supported |
+| WPS PixieDust (OneShot) ® | ✅ Supported (Root) | ❌ Not supported |
+| Router Scan by by Stas'M ® | ✅ Supported (proot) | ❌ Not supported |
+| Checking DPI blocking by your provider or RKN | ✅ Supported | ❌ Not supported |
+| Custom SQLite Database connection | ✅ Supported | ❌ Not supported |
+| Advanced 3WiFi API Settings | ✅ Full access | ⚠️ Limited API access |
+| Viewing saved passwords ® | ✅ Supported (Root) | ✅ Supported (Root) |
+| WPA Algorithms (Router Keygen) | ✅ Supported | ❌ Not supported |
+| WPS Algorithms | ✅ Supported | ⚠️ Limited |
+| Local network scanner | ✅ Supported | ❌ Not supported |
+| Neighbor-based WPS PIN Algorithms | ✅ Supported | ❌ Not supported |
+| 3WIFI offline IP ranges | ✅ Supported | ❌ Not supported |
+| WiFi Channel Analysis | ✅ Supported | ❌ Not supported |
+| WiFi API Maps | ⚠️ Limited | ❌ Not supported |
+| Database Updates | ✅ SmartLinkDB | ❌ Not supported |
+| App/Component Updates | ✅ Supported | ⚠️ Notification only |
+| Customizable Themes | ✅ Multiple options | ⚠️ Dark mode only |
+| Custom App Icon | ✅ Supported | ❌ Not supported |
+| Manufacturer Databases | ✅ 3 databases | ✅ 3 databases |
+| Distance Calculation | ✅ Supported | ❌ Not supported |
+| SDK version | ✅ Latest | ⚠️Old |
 
 ## Unofficial 3WiFi Locator for Android 
 
@@ -107,41 +138,5 @@ ROOT version of Locator (abandoned): https://github.com/LowSkillDeveloper/Root-3
 
 > [!IMPORTANT]
 > ## 3WiFi Locator app will no longer be updated. Use the new "WiFi Frankenstein" app, which can do the same thing but contains improvements. https://github.com/LowSkillDeveloper/WIFI-Frankenstein
-
-## 🔄 Comparison new app with 3WiFi Locator
-
-| Feature | WiFi Frankenstein | 3WiFi Locator |
-|---------|-------------------|---------------|
-| Local in-app Database | ✅ Yes  | ⚠️ Limited |
-| Offline Full 3WiFi Database | ✅ Supported | ❌ Not supported |
-| Advanced 3WiFi API Settings | ✅ Full access | ⚠️ Limited API access |
-| WPS PixieDust (OneShot) ® | ✅ Supported (Root) | ❌ Not supported |
-| Viewing saved passwords in memory ® | ✅ Supported (Root) | ✅ Supported (Root) |
-| WPA Algorithms (Router Keygen) | ✅ Supported | ❌ Not supported |
-| WPS Algorithms | ✅ Supported | ⚠️ Limited |
-| Handshake capture ® | ✅ Supported (Root, kernel) | ❌ Not supported |
-| Built-in Router Scan | ✅ Supported | ❌ Not supported |
-| Local network scanner | ✅ Supported | ❌ Not supported |
-| Checking for DPI blocking by your provider | ✅ Supported | ❌ Not supported |
-| Neighbor-based WPS PIN Algorithms | ✅ Supported | ❌ Not supported |
-| 3WIFI offline IP ranges | ✅ Supported | ❌ Not supported |
-| WiFi Channel Analysis | ✅ Supported | ❌ Not supported |
-| Custom SQLite Database connection | ✅ Supported | ❌ Not supported |
-| WiFi Maps | ✅ Yes | ❌ Not supported |
-| WiFi API Maps | ⚠️ Limited | ❌ Not supported |
-| WiFi Location (geoMAC) | ✅ Yes | ❌ Not supported |
-| Database Updates | ✅ SmartLinkDB | ❌ Not supported |
-| App/Component Updates | ✅ Supported | ⚠️ Notification only |
-| Customizable Themes | ✅ Multiple options | ⚠️ Dark mode only |
-| Custom App Icon | ✅ Supported | ❌ Not supported |
-| Manufacturer Databases | ✅ 4 databases | ✅ 3 databases |
-| Distance Calculation | ✅ Supported | ❌ Not supported |
-| SDK version | ✅ Latest | ⚠️Old |
-
-* Some features require root access. ®
-* Some functions work through the chroot/proot environment
-* Some features are only available starting only in new version 2.0 and upper.
-* The Handshake capture feature requires a custom kernel with support for external adapters or monitoring mode for the built-in kernel.
-
 
 https://github.com/LowSkillDeveloper/WIFI-Frankenstein
