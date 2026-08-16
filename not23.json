@@ -1,15 +1,15 @@
 {
-  "id": 2,
+  "id": 4,
   "messages": {
     "en": {
       "title": "New App Released!",
-      "message": "A brand-new app is now available to replace the old 3WiFi Locator.\n\nIt includes many new features: Wi-Fi maps, WPA key generators, a neighbor-based WPS PIN generator (just like on the 3WiFi website), Pixie Dust, the ability to locate Wi-Fi networks by MAC address, and much more.",
+      "message": "A brand-new app is now available to replace the old 3WiFi Locator.\n\nIt includes many new features: Full offline 3wifi database, Wi-Fi maps, WPA key generators, a neighbor-based WPS PIN generator (just like on the 3WiFi website), Pixie Dust, the ability to locate Wi-Fi networks by MAC address, and much more.",
       "button_text": "Download on GitHub",
       "download_url": "https://github.com/LowSkillDeveloper/WIFI-Frankenstein/releases/latest"
     },
     "ru": {
       "title": "Новое приложение!",
-      "message": "Новое приложение на замену старого 3WiFi Локатора.\n\nСодержит множество нововведений: Wi-Fi карты, WPA-генераторы, Neighbor-based WPS PIN-генератор (как на сайте 3WiFi), Pixie Dust, возможность определения местоположения Wi-Fi по MAC-адресу и многое другое.",
+      "message": "Новое приложение на замену старого 3WiFi Локатора.\n\nСодержит множество нововведений: Целая база 3wifi оффлайн, Wi-Fi карты, WPA-генераторы, Neighbor-based WPS PIN-генератор (как на сайте 3WiFi), Pixie Dust, возможность определения местоположения Wi-Fi по MAC-адресу и многое другое.",
       "button_text": "Скачать на GitHub",
       "download_url": "https://github.com/LowSkillDeveloper/WIFI-Frankenstein/releases/latest"
     }
